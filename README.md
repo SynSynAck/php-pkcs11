@@ -1,4 +1,4 @@
-# PKCS11 bindings for PHP
+# PKCS11 bindings for PHP5
 
 Work in progress. DO NOT USE!
 
